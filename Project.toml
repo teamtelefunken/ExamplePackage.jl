@@ -1,0 +1,13 @@
+name = "ExamplePackage"
+uuid = "74ab34b8-b187-4cae-a333-265029a921fe"
+authors = ["teamtelefunken <61872429+teamtelefunken@users.noreply.github.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
